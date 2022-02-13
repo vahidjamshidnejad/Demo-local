@@ -2,5 +2,5 @@
 
 ## my favorite language so far
 
-- **Python**
-- **Javascript**
+1. **Python**
+2. **Javascript**
